@@ -7,5 +7,5 @@ Creates accounts on sneaker website UI AND 30 MORE SITES COMING THIS WEEK
 
 2. Needs Python 3+
 
-#### Other Stuff
+#### Other stuff
 In the coming days im going to add more sites and im going to wrap the scripts into a ui. I just have to fix some bugs with the captcha feature.
